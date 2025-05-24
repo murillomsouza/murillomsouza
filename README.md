@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Murillo!
 
-<!--
-**murillomsouza/murillomsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** pela FATEC - Indaiatuba.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em desenvolvimento **Back-end** e estou constantemente aprendendo e me aprimorando para alcançar esse objetivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Atualmente, minhas principais habilidades incluem:
+- 🐍 **Python 3**
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- 🧰 **Bootstrap**
+
+🏀 No meu tempo livre, gosto de acompanhar jogos de basquete e curtir a companhia dos meus dois gatos. 😺😺
+
+## 🚀 Em busca de oportunidades para crescer como desenvolvedor Back-end
+
+Se você curte tecnologia, gatos ou basquete (ou tudo isso junto!), vamos trocar uma ideia! 😄
+
+📫 Entre em contato:
+[LinkedIn] www.linkedin.com/in/murillo-de-souza
+
+⭐ Obrigado por visitar meu perfil!
