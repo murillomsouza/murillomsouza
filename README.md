@@ -10,7 +10,7 @@
 ---
 
 <a name="pt-br"></a>
-# Olá! Meu nome é Murillo! <img src="https://api.iconify.design/lucide:terminal-square.svg" width="30" />
+# Olá! Meu nome é Murillo! <img src="https://img.icons8.com/fluency/48/console.png" width="30" align="center" />
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC - Indaiatuba**. Sou apaixonado por tecnologia e estou em busca constante de aprimorar meus conhecimentos, com o grande objetivo de me consolidar como um **desenvolvedor back-end**.
 
@@ -18,14 +18,14 @@ No meu dia a dia, sou um usuário assíduo de **Linux**, o que me ajuda muito a 
 
 <br>
 
-<h3> <img src="https://api.iconify.design/lucide:rocket.svg" width="25" /> Projetos em Destaque</h3>
+<h3> <img src="https://img.icons8.com/fluency/48/rocket.png" width="28" align="center" /> Projetos em Destaque</h3>
 
-* <img src="https://api.iconify.design/lucide:code-2.svg" width="16" /> **[Ceduca](#cole_o_link_aqui)** - *Trabalho academico no qual fui desenvolvedor Backend utilizando Java 21 + SpringBoot.*
-* <img src="https://api.iconify.design/lucide:shopping-bag.svg" width="16" /> **[mmparfum](#cole_o_link_aqui)** - *Trabalho freelancer como desenvolvedor full stack, de onde fui do zero ao deploy em produção*
+* <img src="https://img.icons8.com/fluency/48/code.png" width="18" align="center" /> **[Ceduca](#cole_o_link_aqui)** - *Trabalho acadêmico no qual fui desenvolvedor Backend utilizando Java 21 + Spring Boot.*
+* <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" align="center" /> **[mmparfum](#cole_o_link_aqui)** - *Trabalho freelancer como desenvolvedor full-stack, de onde fui do zero ao deploy em produção.*
 
 <br>
 
-<h3> <img src="https://api.iconify.design/lucide:wrench.svg" width="25" /> Minhas Ferramentas e Tecnologias</h3>
+<h3> <img src="https://img.icons8.com/fluency/48/settings.png" width="28" align="center" /> Minhas Ferramentas e Tecnologias</h3>
 
 **Conhecimentos Sólidos:**
 <br>
@@ -44,7 +44,7 @@ No meu dia a dia, sou um usuário assíduo de **Linux**, o que me ajuda muito a 
 ---
 
 <a name="en-us"></a>
-# Hi! My name is Murillo! <img src="https://api.iconify.design/lucide:terminal-square.svg" width="30" />
+# Hi! My name is Murillo! <img src="https://img.icons8.com/fluency/48/console.png" width="30" align="center" />
 
 I am currently a student of **Multiplatform Software Development** at **FATEC - Indaiatuba**. I'm passionate about technology and constantly looking to improve my knowledge, with the main goal of becoming a **back-end developer**.
 
@@ -52,14 +52,14 @@ In my daily life, I am an avid **Linux** user, which helps me deeply understand 
 
 <br>
 
-<h3> <img src="https://api.iconify.design/lucide:rocket.svg" width="25" /> Featured Projects</h3>
+<h3> <img src="https://img.icons8.com/fluency/48/rocket.png" width="28" align="center" /> Featured Projects</h3>
 
-* <img src="https://api.iconify.design/lucide:code-2.svg" width="16" /> **[Ceduca](#cole_o_link_aqui)** - *Add a brief description about your role or what the Ceduca project is.*
-* <img src="https://api.iconify.design/lucide:shopping-bag.svg" width="16" /> **[mmparfum](#cole_o_link_aqui)** - *Add a brief description about the mmparfum store/project.*
+* <img src="https://img.icons8.com/fluency/48/code.png" width="18" align="center" /> **[Ceduca](#cole_o_link_aqui)** - *Academic project where I worked as a Backend developer using Java 21 + Spring Boot.*
+* <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" align="center" /> **[mmparfum](#cole_o_link_aqui)** - *Freelance full-stack development project, built from scratch to production deployment.*
 
 <br>
 
-<h3> <img src="https://api.iconify.design/lucide:wrench.svg" width="25" /> My Stacks & Tools</h3>
+<h3> <img src="https://img.icons8.com/fluency/48/settings.png" width="28" align="center" /> My Stacks & Tools</h3>
 
 **Solid Knowledge:**
 <br>
@@ -77,7 +77,7 @@ In my daily life, I am an avid **Linux** user, which helps me deeply understand 
 
 ---
 
-<h3> <img src="https://api.iconify.design/lucide:bar-chart-3.svg" width="25" /> Github Stats</h3>
+<h3> <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" align="center" /> Github Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murillomsouza&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="murillomsouza's Stats" />
@@ -87,7 +87,7 @@ In my daily life, I am an avid **Linux** user, which helps me deeply understand 
 
 <br>
 
-<h3> <img src="https://api.iconify.design/lucide:mail.svg" width="25" /> Contact</h3>
+<h3> <img src="https://img.icons8.com/fluency/48/mail.png" width="28" align="center" /> Contact</h3>
 
 <div align="center">
   <a href="https://instagram.com/murillooow" target="_blank">
