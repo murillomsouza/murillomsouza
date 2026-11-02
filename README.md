@@ -1,102 +1,96 @@
-<div align="right">
-  <a href="#pt-br">
-    <img alt="Português" src="https://img.shields.io/badge/Português-green?style=for-the-badge">
-  </a>
-  <a href="#en-us">
-    <img alt="English" src="https://img.shields.io/badge/English-blue?style=for-the-badge">
-  </a>
-</div>
+<h1 align="center">Olá, eu sou o Murillo</h1>
+
+<p align="center">
+  Estudante de Desenvolvimento de Software Multiplataforma na FATEC Indaiatuba<br>
+  Backend com Java + Spring Boot
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/murillo-de-souza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:murillosouza997@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
 ---
 
-<a name="pt-br"></a>
-# Olá! Meu nome é Murillo! <img src="https://img.icons8.com/fluency/48/console.png" width="30" align="center" />
+## Sobre mim
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC - Indaiatuba**. Sou apaixonado por tecnologia e estou em busca constante de aprimorar meus conhecimentos, com o grande objetivo de me consolidar como um **desenvolvedor back-end**.
-
-No meu dia a dia, sou um usuário assíduo de **Linux**, o que me ajuda muito a entender o ambiente de desenvolvimento mais a fundo. Fora do mundo dos códigos, sou um grande fã do universo de **Star Wars** (Ahsoka e Darth Vader são, de longe, os meus personagens favoritos!). 
-
-<br>
-
-<h3> <img src="https://img.icons8.com/fluency/48/rocket.png" width="28" align="center" /> Projetos em Destaque</h3>
-
-* <img src="https://img.icons8.com/fluency/48/code.png" width="18" align="center" /> **[Ceduca](#cole_o_link_aqui)** - *Trabalho acadêmico no qual fui desenvolvedor Backend utilizando Java 21 + Spring Boot.*
-* <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" align="center" /> **[mmparfum](#cole_o_link_aqui)** - *Trabalho freelancer como desenvolvedor full-stack, de onde fui do zero ao deploy em produção.*
-
-<br>
-
-<h3> <img src="https://img.icons8.com/fluency/48/settings.png" width="28" align="center" /> Minhas Ferramentas e Tecnologias</h3>
-
-**Conhecimentos Sólidos:**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" title="Java" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" title="Python" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" title="MySQL" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" /> 
-
-**Estudando Atualmente:**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" title="Spring Boot" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" title="JavaScript" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" title="React" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" title="Docker" /> 
+- Cursando **Desenvolvimento de Software Multiplataforma** na **FATEC Indaiatuba**
+- Foco em **backend**, criando APIs com **Java + Spring Boot**
+- Conhecimento básico em **Python + Flask**
+- Experiência em projetos front-end com **React + JavaScript (Vite)**
+- Aprendendo atualmente: **Inglês**, **Testes** e **CI/CD**
+- Em busca de **estágio** ou vaga de **Desenvolvedor Backend Júnior**
 
 ---
 
-<a name="en-us"></a>
-# Hi! My name is Murillo! <img src="https://img.icons8.com/fluency/48/console.png" width="30" align="center" />
+## 🛠️ Tecnologias e ferramentas
 
-I am currently a student of **Multiplatform Software Development** at **FATEC - Indaiatuba**. I'm passionate about technology and constantly looking to improve my knowledge, with the main goal of becoming a **back-end developer**.
+**Backend**
 
-In my daily life, I am an avid **Linux** user, which helps me deeply understand the development environment. Outside the coding world, I'm a huge **Star Wars** fan (Ahsoka and Darth Vader are by far my favorite characters!).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<br>
+**Frontend**
 
-<h3> <img src="https://img.icons8.com/fluency/48/rocket.png" width="28" align="center" /> Featured Projects</h3>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-* <img src="https://img.icons8.com/fluency/48/code.png" width="18" align="center" /> **[Ceduca](#cole_o_link_aqui)** - *Academic project where I worked as a Backend developer using Java 21 + Spring Boot.*
-* <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" align="center" /> **[mmparfum](#cole_o_link_aqui)** - *Freelance full-stack development project, built from scratch to production deployment.*
+**Bancos de dados**
 
-<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3> <img src="https://img.icons8.com/fluency/48/settings.png" width="28" align="center" /> My Stacks & Tools</h3>
+**Ferramentas e metodologias**
 
-**Solid Knowledge:**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" title="Java" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" title="Python" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" title="MySQL" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" /> 
-
-**Currently Studying:**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" title="Spring Boot" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" title="JavaScript" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" title="React" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" title="Docker" /> 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-<h3> <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" align="center" /> Github Stats</h3>
+## Projetos em destaque
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murillomsouza&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="murillomsouza's Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillomsouza&layout=compact&theme=dracula" alt="Top Langs" />
-</div>
+### 🎓 [Ceduca](https://github.com/murillomsouza/ceduca)
 
-<br>
+Projeto desenvolvido para resolver um problema real de uma **instituição sem fins lucrativos** da minha cidade, que capacita adolescentes para atuarem como **jovens aprendizes**. A base de dados e os currículos ficavam em locais separados, o que dificultava conectar o aluno certo à vaga certa. O Ceduca unifica tudo em um único sistema.
 
-<h3> <img src="https://img.icons8.com/fluency/48/mail.png" width="28" align="center" /> Contact</h3>
+**Minha atuação:** desenvolvimento do backend, com responsabilidade principal pela **geração dinâmica de PDFs**, armazenando apenas as informações preenchidas no formulário.
 
-<div align="center">
-  <a href="https://instagram.com/murillooow" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a> 
-  <a href="mailto:contato@murillosouza997">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/murillo-de-souza" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+**Stack:** Java 21 · Spring Boot · Spring Web · Spring Data MongoDB · Jakarta Validation · Lombok · Maven · MongoDB · OpenPDF
+
+---
+
+### 🧴 [MM Parfum](https://github.com/murillomsouza/mmparfum)
+
+Projeto **freelance** para um vendedor independente de perfumes da minha cidade. Uma aplicação moderna e responsiva que funciona como **vitrine de produtos** e como porta de entrada de um **funil de vendas no WhatsApp**, fortalecendo a presença digital da marca e facilitando o contato direto com os clientes.
+
+**Destaques:**
+- Interface **mobile-first**, adaptada para tablets e desktops
+- **SEO** completo: meta tags otimizadas, Open Graph, Schema.org (JSON-LD), `sitemap.xml` e `robots.txt`
+- **Google Analytics** para monitorar tráfego, cliques e tempo de permanência no site
+- Deploy com **Docker**
+
+**Stack:** React · Vite · Tailwind CSS · JavaScript (ES6+) · Lucide React · LocalStorage · Docker · Apache/LiteSpeed
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murillomsouza&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillomsouza&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas">
+</p>
+
+---
+
+## Vamos conversar?
+
+Estou aberto a oportunidades de **estágio** e **Backend Júnior**. Se quiser trocar uma ideia, é só me chamar:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/murillo-de-souza)
+- 📧 [murillosouza997@gmail.com](mailto:murillosouza997@gmail.com)
